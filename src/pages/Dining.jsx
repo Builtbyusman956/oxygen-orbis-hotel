@@ -7,7 +7,7 @@ const dining = [
   {
     name: "VIP Bar",
     desc: "Exclusive drinks and premium ambiance",
-    img: "https://images.unsplash.com/photo-1564758866810-1f7b1d7b8c42",
+    img: "https://s3.amazonaws.com/hoth.bizango/images/1318601/RiverSpirit_Aug24_24_PhotobyZackBenson_home.jpg",
   },
   {
     name: "VVIP Lounge",
@@ -27,7 +27,7 @@ const dining = [
   {
     name: "Grilling Arena",
     desc: "Live grilling experience with rich flavors",
-    img: "https://images.unsplash.com/photo-1555992336-03a23c0b5f0a",
+    img: "https://slotwinyarena.pl/wp-content/uploads/2025/05/490020876_1066165205539240_5538512236779554168_n.jpg",
   },
   {
     name: "Club",
